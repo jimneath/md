@@ -1,5 +1,8 @@
 # md
 
+[![Build Status](https://travis-ci.org/jimneath/md.png)](https://travis-ci.org/jimneath/md)
+
+
 Diagnose issues with servers before they kill the instance. 
 
 ## Installation
